@@ -1,0 +1,6 @@
+{
+    "ConnectionString": 
+    {
+      "ConnectionDateBase": "Server=RHJ-9F-D213\\SQLEXPRESS; Database=ProlificsProjectManager;Integrated Security=SSPI"
+    }
+}
