@@ -1,0 +1,119 @@
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\Sayanika Nandi\Desktop\TestProject\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-5.0\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.1\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\Sayanika Nandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9(Final)\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.deps.json
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Model.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\bin\Debug\net7.0\PPM.Domain.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.AssemblyReference.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfoInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.AssemblyInfo.cs
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CoreCompileInputs.cache
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.csproj.CopyComplete
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\refint\PPM.Ui.Consoles.dll
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\PPM.Ui.Consoles.pdb
+C:\Users\SNandi\Desktop\Prolifics Project Manager(PPM) Version-6.2.9\PPM.Ui.Consoles\obj\Debug\net7.0\ref\PPM.Ui.Consoles.dll
